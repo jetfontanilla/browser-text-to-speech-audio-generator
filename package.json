@@ -9,7 +9,7 @@
   "devDependencies": {
     "@rollup/plugin-commonjs": "20.0.0",
     "@rollup/plugin-node-resolve": "^13.0.5",
-    "@smui/button": "^4.2.0",
+    "@smui/button": "^5.0.0",
     "rollup": "^2.26.11",
     "rollup-plugin-livereload": "^2.0.0",
     "rollup-plugin-svelte": "^7.1.0",
